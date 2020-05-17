@@ -15,4 +15,4 @@
 
 const Ws = use('Ws')
 
-Ws.channel('joined', 'SocketController')
+Ws.channel('chatServer', 'SocketController')
